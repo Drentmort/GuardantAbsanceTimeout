@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{10C66676-D9DC-411D-956B-117BE9A8E0D9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>GuradantAbsanseTimeout</RootNamespace>
-    <AssemblyName>GuradantAbsanseTimeout</AssemblyName>
+    <RootNamespace>GuardantAbsanceTimeout</RootNamespace>
+    <AssemblyName>GuardantAbsanceTimeout</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
